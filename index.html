@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+  -----------------------------------------1
+  <ul class="post-list">
+    {% for thing in site.things %}
+      <li>
+        <h2>
+          <a class="post-link" href={{ thing.url }}>{{ thing.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+---------------------2
+<p>{{ site.collections }}</p>
+
