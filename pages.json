@@ -1,0 +1,69 @@
+{
+  "pages": [
+    {
+      "meta": {
+        "volume": "1",
+        "hole": "1",
+        "chapter": "2",
+        "part": "2",
+        "title": "Sasami Dark 1",
+        "status": "1"
+      },
+      "series": "56daa310c3be6c3c25e27bec",
+      "content": "wowowowowowow\n\nmore wowa",
+      "id": "56daa5ee2ca8713c15dd46ff"
+    },
+    {
+      "meta": {
+        "volume": "1",
+        "hole": "1",
+        "chapter": "2",
+        "part": "3",
+        "title": "Sasami Dark 2",
+        "status": "1"
+      },
+      "series": "56daa310c3be6c3c25e27bec",
+      "content": "in the database\ndatabase",
+      "id": "5700c2ac9b96dff2082f4fbd"
+    },
+    {
+      "meta": {
+        "volume": "1",
+        "hole": "1",
+        "chapter": "2",
+        "title": "Sasami Dark Index Test",
+        "status": "1"
+      },
+      "series": "56daa310c3be6c3c25e27bec",
+      "content": "asdf index pages custom wow\n\n[part! 2](./2)\n\n[part (such) 3](./3)\n\n======\n\n{{index}}",
+      "id": "57515504164be637d6da5a9f"
+    },
+    {
+      "meta": {
+        "volume": "2",
+        "hole": "2",
+        "chapter": "2",
+        "part": "2",
+        "title": "later",
+        "status": "1"
+      },
+      "series": "56daa310c3be6c3c25e27bec",
+      "content": "asdasd\nasdasd\nwowowow\ndatabase\n\n{{index}}\n\n[up]({{root}}{{parent}})",
+      "id": "57441e4232f5de8978dbf6b9"
+    }
+  ],
+  "series": [
+    {
+      "config": {
+        "hierarchy": [
+          "volume",
+          "hole",
+          "chapter",
+          "part"
+        ]
+      },
+      "name": "Sasami-san",
+      "id": "56daa310c3be6c3c25e27bec"
+    }
+  ]
+}
