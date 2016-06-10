@@ -98,11 +98,7 @@
           <div class="panel-body">
 
             <!-- content start -->
-            <p>auto generated index</p>
-<p><a href="../../sasami-san">up</a></p>
-<p>Series: sasami-san</p>
-<p>volume 2, </p>
-<p><a href="2">hole 2</a></p>
+            <p>top contact page</p>
 
             <!-- content end -->
           </div>

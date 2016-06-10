@@ -22,8 +22,8 @@
 <body>
   <nav class="navbar navbar-default box">
     <div class="container header-image">
-      <a href="http://www.nanodesutranslations.wordpress.com">
-        <img class="img-responsive" border="0" alt="" src="https://sasamisanthetranslation.files.wordpress.com/2013/08/sasami4.png" />
+      <a href="../">
+        <img class="img-responsive" border="0" alt="" src="" />
       </a>
     </div>
     <div class="container">

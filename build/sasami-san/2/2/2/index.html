@@ -22,7 +22,7 @@
 <body>
   <nav class="navbar navbar-default box">
     <div class="container header-image">
-      <a href="http://www.nanodesutranslations.wordpress.com">
+      <a href="../../../../sasami-san">
         <img class="img-responsive" border="0" alt="" src="https://sasamisanthetranslation.files.wordpress.com/2013/08/sasami4.png" />
       </a>
     </div>
@@ -82,7 +82,7 @@
                 </ul>
               </li>
                 <li><a href="#">Update History</a></li>
-                <li><a href="../../../../contact">Contact Us</a></li>
+                <li><a href="../../../../sasami-san/contact">Contact Us</a></li>
         </ul>
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
