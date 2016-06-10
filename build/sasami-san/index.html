@@ -93,13 +93,13 @@
       <div class="col-md-9 col-xs-12 colpad-right">
         <div class="panel panel-default box">
           <div class="panel-heading">
-            <h4>Sasami-san <a href="..//">↸</a></h4>
+            <h4>Sasami-san <a href="../">↸</a></h4>
           </div>
           <div class="panel-body">
 
             <!-- content start -->
             <p>auto generated index</p>
-<p><a href="..//">up</a></p>
+<p><a href="../">up</a></p>
 <p>Series: sasami-san</p>
 <p><a href="1">volume 1</a></p>
 <p><a href="2">volume 2</a></p>

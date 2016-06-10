@@ -93,7 +93,7 @@
       <div class="col-md-9 col-xs-12 colpad-right">
         <div class="panel panel-default box">
           <div class="panel-heading">
-            <h4>Sasami-san <a href="../../../../../sasami-san/2/2/2">↸</a></h4>
+            <h4>later <a href="../../../../../sasami-san/2/2/2">↸</a></h4>
           </div>
           <div class="panel-body">
 

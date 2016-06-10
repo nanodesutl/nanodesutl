@@ -51,7 +51,7 @@
       <div class="col-md-9 col-xs-12 colpad-right">
         <div class="panel panel-default box">
           <div class="panel-heading">
-            <h4> <a href="../">↸</a></h4>
+            <h4>Chapter 3 <a href="../">↸</a></h4>
           </div>
           <div class="panel-body">
 
